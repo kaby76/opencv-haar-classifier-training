@@ -1,0 +1,2 @@
+./samples/p1.jpg.vec
+./samples/p2.jpg.vec

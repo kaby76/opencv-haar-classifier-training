@@ -1,0 +1,3 @@
+./positive_images/p1.jpg
+./positive_images/p2.jpg
+./positive_images/p3.jpg
