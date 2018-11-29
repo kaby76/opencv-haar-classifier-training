@@ -1,6 +1,7 @@
 # Train your own OpenCV Haar classifier
 
-**Important**: This guide assumes you work with OpenCV 2.4.x. Since I no longer work with OpenCV, and don't have the time to keep up with changes and fixes, this guide is **unmaintained**. Pull requests will be merged of course, and if someone else wants commit access, feel free to ask!
+**Important**: This guide assumes you work with OpenCV 3.4.3. The trainer code in OpenCV is not being build as of Nov 2018 for
+whatever reason.
 
 This repository aims to provide tools and information on training your own
 OpenCV Haar classifier.  Use it in conjunction with this blog post: [Train your own OpenCV Haar
